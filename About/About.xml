@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <packageId>keitetsu.faction.void.german</packageId>
+    <name>[RH2] Faction: V.O.I.D. German</name>
+    <author>keitetsu (stotzem)</author>
+    <description>German translation of [RH2] Faction: V.O.I.D.</description>
+    <modVersion>0.1.0</modVersion>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>rh2.faction.void</packageId>
+            <displayName>[RH2] Faction: V.O.I.D.</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2916348201</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>rh2.faction.void</li>
+    </loadAfter>
+</ModMetaData>
