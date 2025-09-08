@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <LeaderTitleMaker_VOID.rulePack.rulesStrings.0>r_leaderTitle->Exekutive</LeaderTitleMaker_VOID.rulePack.rulesStrings.0>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.0>r_ideoName->[VOIDAdjective] Kontrolle</RH2NamerIdeo_VOID.rulePack.rulesStrings.0>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.1>r_ideoName->[VOIDAdjective] Chaos</RH2NamerIdeo_VOID.rulePack.rulesStrings.1>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.2>r_memberName->Mitglied</RH2NamerIdeo_VOID.rulePack.rulesStrings.2>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.3>r_ideoAdjective(priority=1)->Leere</RH2NamerIdeo_VOID.rulePack.rulesStrings.3>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.4>r_ideoAdjective(priority=1)->Kern</RH2NamerIdeo_VOID.rulePack.rulesStrings.4>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.5>Leitbild->[genericCreed]</RH2NamerIdeo_VOID.rulePack.rulesStrings.5>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.6>genericCreed->Doktrin</RH2NamerIdeo_VOID.rulePack.rulesStrings.6>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.7>genericCreed->Leitbild</RH2NamerIdeo_VOID.rulePack.rulesStrings.7>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.8>genericCreed->Weg</RH2NamerIdeo_VOID.rulePack.rulesStrings.8>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.9>genericCreed->Pfad</RH2NamerIdeo_VOID.rulePack.rulesStrings.9>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.10>VOIDAdjective->Totale</RH2NamerIdeo_VOID.rulePack.rulesStrings.10>
+    <RH2NamerIdeo_VOID.rulePack.rulesStrings.11>VOIDAdjective->Absolute</RH2NamerIdeo_VOID.rulePack.rulesStrings.11>
+</LanguageData>
