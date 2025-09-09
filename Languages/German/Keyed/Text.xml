@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <Void.SettlementIsDefeated>V.O.I.D.-Expansion</Void.SettlementIsDefeated>
+    <Void.SettlementIsDefeatedDesc>{FACTION_name} wurde während eines Überfalls überwältigt. {0} wurde von V.O.I.D. eingenommen.</Void.SettlementIsDefeatedDesc>
+    <Void.EnableVoidExpansion>V.O.I.D.-Expansion aktivieren</Void.EnableVoidExpansion>
+    <Void.tickToSpawnHostiles>Erscheinungstag der Bedrohung: </Void.tickToSpawnHostiles>
+    <Void.EnableVoidContact>V.O.I.D.-Kontakt aktivieren</Void.EnableVoidContact>
+    <Void.MessageMutantAssembled>Ein N-4-Mutant ist aus dem Ruhestand erwacht.</Void.MessageMutantAssembled>
+    <Void.MessageMutantLeftToAssembled>Verbleibende Mutanten in Ruhestand</Void.MessageMutantLeftToAssembled>
+    <Void.MutantAssemblyCompleteIn>{0} Ruhestand abgeschlossen in {1}.</Void.MutantAssemblyCompleteIn>
+    <Void.MutantAssemblyNextType>Erwacht</Void.MutantAssemblyNextType>
+    <UseJetPack>Jetpack verwenden</UseJetPack>
+    <UseJetPackDesc>Fliege mit dem Jetpack zu einem Ziel</UseJetPackDesc>
+    <NotEnoughFuelForJetPackDesc>Nicht genug Treibstoff</NotEnoughFuelForJetPackDesc>
+    <CurrentFuelAmount>Jetpack-Treibstoffmenge: {0}</CurrentFuelAmount>
+    <RefuelJetPack>Jetpack betanken</RefuelJetPack>
+    <RefuelJetPackDesc>Verwende Chemtreibstoff, um den Jetpack zu betanken</RefuelJetPackDesc>
+    <EnoughFuelForJetPackDesc>Nicht genug Treibstoff für den Jetpack</EnoughFuelForJetPackDesc>
+    <Void_ResurrectionLabel>{PAWN_nameDef}s Wiederbelebung</Void_ResurrectionLabel>
+    <Void_ResurrectionDesc>{PAWN_nameDef} wurde wiederbelebt, jedoch gingen alle Gegenstände während der Prozedur verloren.</Void_ResurrectionDesc>
+    <Void.EnableSpawnOfNewVoidBasesNearby>Erlaube Spawn neuer V.O.I.D.-Basen in der Nähe der Spielerkolonie</Void.EnableSpawnOfNewVoidBasesNearby>
+    <Void.MaxAmountOfNewVoidBasesNearby>Maximale Anzahl neuer V.O.I.D.-Basen in der Nähe der Spielerkolonie</Void.MaxAmountOfNewVoidBasesNearby>
+    <Void.BunkerPasswordMessage>Bitte Bunker-Kennwort eingeben:</Void.BunkerPasswordMessage>
+    <Void.AccessDenied>ZUGANG VERWEIGERT</Void.AccessDenied>
+    <Void.NukeIntercepted>Eure Atombombe wurde im Orbit abgefangen.</Void.NukeIntercepted>
+    <Void.VoidContact>V.O.I.D.-Kontakt</Void.VoidContact>
+    <Void.VoidVisitorsDesc>V.O.I.D. hat einen Berater geschickt, um eure Kapitulation zu verhandeln.</Void.VoidVisitorsDesc>
+    <Void.Contact>Kontakt</Void.Contact>
+    <Void.Hostile>V.O.I.D.</Void.Hostile>
+    <Void.HostileDesc>Eine dröhnende, bekannte monotone Stimme, die wie Donner vom Himmel zu kommen scheint, spricht zu euch und eurer Kolonie. Sie ähnelt der Stimme eines V.O.I.D.-Beraters.\n\n"Sie wurden angewiesen, diesen Planetensektor zu räumen, haben dieser Aufforderung jedoch nicht Folge geleistet. Sie haben damit die Erfolgsaussachen weiterer diplomatischer Kommunikation negiert. Betrachten Sie diese Mitteilung als offizielle Kriegserklärung."\n\nV.O.I.D. ist nun feindlich gegenüber eurer Kolonie eingestellt.</Void.HostileDesc>
+    <Void.CannotEnlist>V.O.I.D. weigert sich, euch wieder aufzunehmen.</Void.CannotEnlist>
+    <Void.Hostile_DeclinedBeg>Waffenstillstand abgelehnt</Void.Hostile_DeclinedBeg>
+    <Void.HostileDesc_DeclinedBeg>Der Exekutivrat von (*Threat)V.O.I.D.(/Threat) hat in einer kollektiven Abstimmung die Aufrechterhaltung des Nichtangriffspakts, trotz vorgetragenem Abbittgesuch, abgelehnt und für gegenstandslos erklärt. Folglich wird der Status Ihrer Kolonie mit sofortiger Wirkung auf "hostil" geändert.</Void.HostileDesc_DeclinedBeg>
+    <Void.EnterProtocol>Protokoll</Void.EnterProtocol>
+    <Void.EnterProtocolDesc>Reiche ein Protokoll bei der V.O.I.D.-Führung ein, die diesen Sektor kontrolliert. Protokolle sind Codes des Rates, die unter besonderen Umständen befolgt werden müssen, selbst wenn sie von einem untergeordneten Mitglied eingereicht werden.</Void.EnterProtocolDesc>
+    <Void.EnterProtocolText>Protokoll-Kennwort eingeben</Void.EnterProtocolText>
+    <Void.InvalidProtocol>Protokoll-Kennwort nicht erkannt.</Void.InvalidProtocol>
+    <Void.ProjectDefencePactTitle>Verteidigungspakt-Protokoll</Void.ProjectDefencePactTitle>
+    <Void.ProjectDefencePactText>Verteidigungspakt-Protokoll initiiert in 1 Tag</Void.ProjectDefencePactText>
+    <Void.ProjectDefencePactInitiatedTitle>Verteidigungspakt-Protokoll initiiert</Void.ProjectDefencePactInitiatedTitle>
+    <Void.ProjectDefencePactInitiatedText>Mittels rhetorischer Finesse und erheblicher Konzessionen hat V.O.I.D. erfolgreich Verhandlungen mit allen nicht-hostilen Fraktionsführern abgeschlossen. Der Friedenszustand wurde offiziell deklariert und vertraglich fixiert, was in den umliegenden Gemeinwesen für erhebliches Erstaunen sorgte.\n\nZu eurer Information: inherent hostile Fraktionen haben die Unterzeichnung des Abkommens verweigert.</Void.ProjectDefencePactInitiatedText>
+    <Void.ProjectFrenemyTitle>Friedensprotokoll</Void.ProjectFrenemyTitle>
+    <Void.ProjectFrenemyText>Friedensprotokoll initiiert in 3 Tagen</Void.ProjectFrenemyText>
+    <Void.ProjectFrenemyInitiatedTitle>Friedensprotokoll initiiert</Void.ProjectFrenemyInitiatedTitle>
+    <Void.ProjectFrenemyInitiatedText>Nicht-permanent feindliche Fraktionen wurden von V.O.I.D.-Unterhändlern freigekauft.</Void.ProjectFrenemyInitiatedText>
+    <Void.IncludeN7MonstersInManhunterEvents>N7-Monster in Menschenjagd-Ereignisse einbeziehen</Void.IncludeN7MonstersInManhunterEvents>
+</LanguageData>
