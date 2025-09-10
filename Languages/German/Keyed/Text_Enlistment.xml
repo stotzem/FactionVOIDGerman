@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <RH.VOIDEnlistLetterTitle>{FACTION_name}: Eingeladen</RH.VOIDEnlistLetterTitle>
+    <RH.VOIDEnlistLetterLabel>Wir haben Sie erwartet. Willkommen bei {FACTION_name}.\n\nEs wird vorausgesetzt, dass Sie über die notwendige Ausrüstung und Augmentation verfügen, um Ihren Dienstpflichten nachzukommen. Auf eine permanente operative Führung wird verzichtet. Die Verantwortung für das Überleben etwaiger Angriffe durch Einheimische obliegt gänzlich Ihrer Person. Unsere Einrichtungen stehen Ihnen dennoch zur Nutzung bereit. Die Versorgung eigener Mitglieder wird selbstverständlich gewährleistet.\n\nIhr Status ist derzeit noch nicht offiziell assoziiert. Dies kann strategisch gegenüber anderen Fraktionen genutzt werden. Beachten Sie die primären Direktiven unserer Mission und vermeiden Sie über die militärische Notwendigkeit hinausgehende Grausamkeiten gegenüber der indigenen Population, auch im Feindstatus.\n\nSeien Sie sich unbehandelter Nerotonin-4-Kontaminationen in Sektor 7-Gamma bewusst. Die daraus hervorgegangenen feindlichen Einheiten stellen keine operationsrelevante Bedrohung dar. Sollten sie für Ihr Personal dennoch ein unüberwindbares Hindernis bilden, wäre dies als Indikator für eine Fehleinschätzung Ihrer Eignung zu werten.\n\nVon Ihrem Erfolg wird ausgegangen.\n{LEADER_nameDef}, {FACTION_name} Executive</RH.VOIDEnlistLetterLabel>
+    <RH.VOIDEnlistButtonLabel>Kennwort eingeben</RH.VOIDEnlistButtonLabel>
+    <RH.VOIDEnlistButtonDesc>Geben Sie einen Kennwort in die mysteriöse Tastatur ein.</RH.VOIDEnlistButtonDesc>
+    <RH.VOIDEnlistRequrementsNotSatisfied>Sie sind nicht eingeladen.</RH.VOIDEnlistRequrementsNotSatisfied>
+    <RH.VOIDEnlistedWithKey>Mitglied von: {FACTION_name}</RH.VOIDEnlistedWithKey>
+    <RH.VOIDMissionsLabel>Missionen</RH.VOIDMissionsLabel>
+    <RH.VOIDMissionsDesc>Missionsbeschreibung</RH.VOIDMissionsDesc>
+    <RH.VOIDMenuMissionsDesc>Sie gehen durch einen Raum mit einem einzelnen Projektor, der Statistiken und Informationen über die aktuelle Welt anzeigt.</RH.VOIDMenuMissionsDesc>
+    <RH.VOIDMenuMissionsSelectQuest>Wählen Sie eine Mission: </RH.VOIDMenuMissionsSelectQuest>
+    <RH.VOIDMenuMissionsStartQuest>Quest starten ({0})</RH.VOIDMenuMissionsStartQuest>
+    <RH.Cancel>Abbrechen</RH.Cancel>
+    <RH.VOIDNoEnoughMoney>Nicht genug Geld</RH.VOIDNoEnoughMoney>
+    <RH.VOIDStorageLabel>Lager</RH.VOIDStorageLabel>
+    <RH.VOIDStorageDesc>Lagern Sie Gegenstände aus Ihrer Karawane in Ihrem Fraktionslager. Fraktionslager sind über alle Außenposten der Fraktion hinweg zugänglich und bewahren Inhalte auch dann auf, wenn Sie nicht mehr Mitglied sind.</RH.VOIDStorageDesc>
+    <RH.VOIDDropPodServiceLabel>Transportkapselservice</RH.VOIDDropPodServiceLabel>
+    <RH.VOIDDropPodServiceDesc>Nutzen Sie den Transportkapselservice dieser Fraktion, um kostenlos auf dem Luftweg zu reisen.</RH.VOIDDropPodServiceDesc>
+    <RH.VOIDDropPodServiceRequirementDesc>Diese Fraktion übernimmt die Kosten für Ihre Reise.</RH.VOIDDropPodServiceRequirementDesc>
+    <RH.StorageInventory>Lagerinventar</RH.StorageInventory>
+    <RH.CaravanInventory>Karawaneninventar</RH.CaravanInventory>
+    <RH.UltraMechSerumLabelKey>Nerotonin-2-Booster</RH.UltraMechSerumLabelKey>
+    <RH.UltraMechSerumCostRequirementKey>Sie können sich diese Dienstleistung nicht leisten.</RH.UltraMechSerumCostRequirementKey>
+    <RH.UltraMechSerumDescKey>Nerotonin-2-Injektion, die alle medizinischen Zustände Ihrer Karawane sofort heilt. Kostenlos.</RH.UltraMechSerumDescKey>
+    <RH.ActiveEnlistOptions>Aktive Anwerbeoptionen</RH.ActiveEnlistOptions>
+    <RH.VOIDSalaryLabel>Gehalt</RH.VOIDSalaryLabel>
+    <RH.VOIDSalaryDesc>Sie haben Anspruch darauf, alle 7 Tage Zahlungen von dieser Fraktion zu erhalten.</RH.VOIDSalaryDesc>
+    <RH.VOIDProvisionsLabel>Proviant</RH.VOIDProvisionsLabel>
+    <RH.VOIDProvisionsDesc>Proviant fügt Ihrem Karawaneninventar alle 24 Stunden Folgendes hinzu:\n\n- ×30 Kaviar\n- ×5 Rotwein\n- ×10 Glittertech-Medizin\n- ×4 Nerotonin-8B-Pillen</RH.VOIDProvisionsDesc>
+    <RH.VOIDProvisionsLabelVoidIssue>V.O.I.D.-Ausrüstung</RH.VOIDProvisionsLabelVoidIssue>
+    <RH.VOIDProvisionsDescVoidIssue>V.O.I.D.-Ausrüstung fügt Ihrem Karawaneninventar alle 30 Tage Folgendes hinzu:\n\n- ×1 Dusk Razor\n- ×1 Dusk Enforcer\n- ×1 Dusk Striker \n- ×3 V.O.I.D.-Helm \n- ×3 V.O.I.D. Reactive\n- ×3 Voidtech-Haut</RH.VOIDProvisionsDescVoidIssue>
+    <RH.VOIDProvisionsLabelVoidtech>Voidtech-Ausrüstung</RH.VOIDProvisionsLabelVoidtech>
+    <RH.VOIDProvisionsDescVoidtech>Voidtech-Ausrüstung fügt Ihrem Karawaneninventar alle 14 Tage Folgendes hinzu:\n\n- ×1 Vollständiger Satz Voidtech-Organe\n- ×1 Vollständiger Satz Voidtech-Gliedmaßen\n- ×1 Vollständige X-Serie-Implantate\n- ×1 Teufelsimplantat\n- ×1 Instabiles Implantat\n- ×1 Katastrophenimplantat\n- ×1 Geschwindigkeitsimplantat\n- ×1 Vielseitigkeitsimplantat\n- ×1 Meisterschaftsimplantat\n- ×1 Super-Verführungsserum\n- ×1 Schmerzunterdrücker\n- ×2 Voidtech-Energiezelle</RH.VOIDProvisionsDescVoidtech>
+    <RH.VOIDShootingTrainingLabel>Training: Überleben für Fortgeschrittene</RH.VOIDShootingTrainingLabel>
+    <RH.VOIDShootingTrainingDesc>Trainieren Sie Ihre Karawane mit hochmodernen virtuellen Realitäten und verbesserten Gehirnstimulationen, die Ihre Siedler in ein postapokalyptisches Szenario werfen.\n\nDiese Option trainiert alle Fähigkeiten Ihrer Karawanenmitglieder.\n\nDer stündliche Erfahrungszuwachs stoppt, wenn diese Fraktion nachts ruht.</RH.VOIDShootingTrainingDesc>
+    <RH.VOIDTurnInLabel>Übergeben</RH.VOIDTurnInLabel>
+    <RH.VOIDTurnInDesc>Übergeben Sie Kriminelle an den V.O.I.D.-Rat zur Weiterverarbeitung.</RH.VOIDTurnInDesc>
+    <RH_VOIDTurnInTraderName>Mutterschiff</RH_VOIDTurnInTraderName>
+    <RH.VOIDReinforcementsButtonLabel>Verstärkung</RH.VOIDReinforcementsButtonLabel>
+    <RH.VOIDReinforcementsButtonDesc>Rufen Sie Verstärkung von Ihrer zugewiesenen Fraktion. Die Anzahl der entsandten Truppen hängt von Ihren aktuellen Beziehungen ab.</RH.VOIDReinforcementsButtonDesc>
+    <RH.VOIDResignMenuText>Sie werden V.O.I.D. verlassen und abschwören.\n\n(-100 Beziehungen)</RH.VOIDResignMenuText>
+    <RH.VOIDResignLetterTitle>Ausgeschieden</RH.VOIDResignLetterTitle>
+    <RH.VOIDResignButtonLabel>Austreten</RH.VOIDResignButtonLabel>
+    <RH.VOIDResignLetterLabel>Sie haben {FACTION_name} verlassen\n\nDas wird Konsequenzen haben. (-100 Beziehungen)</RH.VOIDResignLetterLabel>
+    <RH.VOIDResignButtonDesc>diese Fraktion verlassen</RH.VOIDResignButtonDesc>
+    <RH.PlayerSettlementRequired>Siedlung des Spielers benötigt</RH.PlayerSettlementRequired>
+    <RH.VOIDEnlistedToHostileFaction>kann nicht betreten, da Sie bei ihrem Feind, {HOSTILEFACTION_name}, Mitglied sind</RH.VOIDEnlistedToHostileFaction>
+    <RH.VOIDEnlistRequiredForTrading>Sie können nicht mit dieser Fraktion handeln. Sie gehören nicht hierher.</RH.VOIDEnlistRequiredForTrading>
+    <RH.VOIDEnlistRequiredForGifting>Es gibt nichts, was Sie dieser Fraktion anbieten können. Sie gehören nicht hierher.</RH.VOIDEnlistRequiredForGifting>
+    <RH.VOIDKickOutLetterTitle>Exkommuniziert</RH.VOIDKickOutLetterTitle>
+    <RH.VOIDKickOutLabelTitle>Eine Anordnung für Ihre Exkommunikation aus {FACTION_name} wurde vom Rat autorisiert. Sie wurden verbannt. Sie können nie wieder beitreten.</RH.VOIDKickOutLabelTitle>
+    <RH.VoidPromoteButtonLabel>Befördern</RH.VoidPromoteButtonLabel>
+    <RH.VoidPromoteButtonDesc>Befördern Sie einen Ihrer Siedler in die Beraterrolle</RH.VoidPromoteButtonDesc>
+    <RH.VoidPromoteSkillsNotSatisfied>Um zu befördern, muss einer Ihrer Kolonisten die folgenden Skillanforderungen erfüllen:\n{0}</RH.VoidPromoteSkillsNotSatisfied>
+    <RH.VOIDProvisionsPromotedLabel>Berater-Ausrüstung</RH.VOIDProvisionsPromotedLabel>
+    <RH.VOIDProvisionsPromotedDesc>Berater-Ausrüstung fügt Ihrem Karawaneninventar alle 30 Tage Folgendes hinzu:\n\n- ×1 Dusk MAG\n- ×1 V.O.I.D.-Helm \n- ×1 V.O.I.D. Reactive\n- ×1 Voidtech-Haut\n- ×1 Voidtech-Anzug\n- ×1 Vollständiger Satz Elite-Implantate (AUSSER Dawn)\n- ×1 Vollständiger Satz Epische Implantate\n- ×1 Katzenaugenimplantat\n- ×1 Zerstörungsimplantat\n- ×1 Bernsteinimplantat\n- ×1 Genieimplantat\n- ×1 Datenimplantat\n- ×1 Verwüstungsimplantat\n- ×1 Nerotonin-V-Implantat\n- ×1 Nerotonin-2B-Implantat\n- ×75.000 Silber\n- ×3 Voidtech-Energiezelle\n- ×2 Unendlicher Chemiereaktor</RH.VOIDProvisionsPromotedDesc>
+</LanguageData>
