@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModMetaData>
     <packageId>keitetsu.faction.void.german</packageId>
-    <name>[RH2] Faction: V.O.I.D. German</name>
+    <name>[RH2] Faction: V.O.I.D. German / Deutsch</name>
     <author>keitetsu (stotzem)</author>
     <description>German translation of [RH2] Faction: V.O.I.D.</description>
-    <modVersion>0.1.1</modVersion>
+    <modVersion>0.2.0</modVersion>
     <supportedVersions>
         <li>1.6</li>
     </supportedVersions>
